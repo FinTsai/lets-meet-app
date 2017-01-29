@@ -6,9 +6,6 @@ This app is for people looking for coffee buddies. It is for people to meet a st
 ## Resolution:
 To create an app that enables someone to meet new friends and doing same thing together now. The host of the event can pick a location nearby and invite other users to join.
 
-## Note:
-This app is for free but if someone think this app is good then they can donate.
-
 ## Wireframes
 ![wireframe 1](https://raw.githubusercontent.com/FinTsai/lets-meet-app/master/docs/Wireframes.png)
 
